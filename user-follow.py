@@ -12,7 +12,8 @@ def lambda_handler(event, context):
     if not flist:
         flist = [followee]
     else:
-        flist.append(followee)
+        if followee not in flist:
+            flist.append(followee)
     response = table.update_item(
         Key={
             'id': follower
