@@ -1,6 +1,6 @@
 ﻿WeFoodies Final Report
 
-Group members: yf2549, yc3936, jj3132, xl2869
+Group members: Yingfei Fan, Yen-Lin Chen, Junyang Jin, Xiaochuan Liu
 
 # 1. Project proposal
 
@@ -39,7 +39,7 @@ In this app, you can get recommendations for restaurants according to your needs
 
 Yelp, Google review, Open Table
 
-\2. Clickable Prototype
+# 2. Clickable Prototype
 [**https://invis.io/KM109W5YPC9R**](https://invis.io/KM109W5YPC9R)
 ==================================================================
 
